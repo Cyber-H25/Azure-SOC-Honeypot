@@ -24,7 +24,6 @@ The goal of this project is to showcase practical, hands-on experience with:
 	•	Real Attacker Data → Honeypot received 4,000+ brute-force login attempts, logged and analyzed in Sentinel.
 	•	Custom Detection Rules → Built KQL queries to detect:
 	•	RDP brute-force attempts
-	•	Beaconing behavior (C2 patterns)
 	•	Malware execution from suspicious .exe files
 	•	Geo-IP Threat Mapping → Visualized attack origins across the globe.
 	•	SOAR Playbooks → Automated email alerts triggered by Sentinel analytic rules.
@@ -41,6 +40,6 @@ The goal of this project is to showcase practical, hands-on experience with:
 🚀 Skills Demonstrated
 	•	SIEM & SOC Operations → Log ingestion, correlation, and detection engineering.
 	•	Threat Hunting → Identifying anomalous patterns such as beaconing intervals and brute-force campaigns.
-	•	Incident Response → Following escalation workflows for suspicious executables (e.g., potential C2 activity).
+	•	Incident Response → Following escalation workflows for suspicious executables 
 	•	EDR Usage → Leveraging Defender for Endpoint for behavioral analysis.
 	•	Red Team Awareness → Conducting recon/attack simulations for blue team validation.
