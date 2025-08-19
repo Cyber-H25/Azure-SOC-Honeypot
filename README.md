@@ -45,10 +45,17 @@ The goal of this project is to showcase practical, hands-on experience with:
 	•	Red Team Awareness → Conducting recon/attack simulations for blue team validation.
  
 ![Azure Environment overview](Screenshot%202025-08-18%20231533.png)
+
 ![Defender EDR Timeline](Screenshot%202025-08-18%20232223.png)
+
 ![Cases](Screenshot%202025-08-1820232245.png)
+
 ![SOAR Playbooks overview](Screenshot20%2025-08-1820%232408.png)
+
 ![Analytics Rules overview](Screenshot20%2025-08-1820%232606.png)
+
 ![Brute Force Analytics rule](Screenshot20%2025-08-1820%232624.png)
+
 ![Port Scan Analytics rule](Screenshot20%2025-08-1820%232636.png)
+
 ![Threat Hunting Brute Force](Screenshot20%2025-08-1820%233112.png)
